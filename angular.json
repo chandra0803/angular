@@ -124,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Online-Job-Portal"
+    }
+  },
+  "defaultProject": "Online-Job-Portal",
+  "cli": {
+    "analytics": "25907884-d6ae-48b8-b40e-8b0a67f4d538"
+  }
 }
